@@ -58,7 +58,7 @@ The `generate-env` script only creates files if they don't exist, preserving any
 
 ### 3. Download database dumps from Zenodo (optional but recommended)
 
-Downloads and extracts Neo4j and MongoDB seed data from Zenodo with `make download-dump` command. This step is optional because it does not affect the correct deployment of the tools, but if you want to use the extracted graph data for your software supply chain analysis, it is a recommended step. It should also be noted that the dump can be large, so **a good internet connection is required**.
+Downloads and extracts Neo4j and MongoDB [seed data](https://doi.org/10.5281/zenodo.16739080) from **Zenodo** with `make download-dump` command. This step is optional because it does not affect the correct deployment of the tools, but if you want to use the extracted graph data for your software supply chain analysis, it is a recommended step. It should also be noted that the dump can be large, so **a good internet connection is required**.
 
 ### 4. Start services
 
