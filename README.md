@@ -1,5 +1,7 @@
 # Secure Chain Stack
 
+[![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 Docker-based infrastructure for SecureChain project databases and tools.
 
 ## Overview
